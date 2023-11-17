@@ -33,7 +33,7 @@ nav {
 a {
     color: white;
     font-weight: bold;
-    font-style: none;
+    text-decoration: none;
 }
 
 a:hover {
