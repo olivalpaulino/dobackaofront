@@ -1,0 +1,7 @@
+@media screen and (max-width: 320px) {
+    #banner {
+      /* Novos estilos para telas menores */
+      width: 100%; /* Pode ajustar o tamanho conforme necessário */
+      height: auto;
+    }
+  }
