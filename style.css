@@ -33,4 +33,10 @@ nav {
 a {
     color: white;
     font-weight: bold;
+    font-style: none;
+}
+
+a:hover {
+    background-color: white;
+    color: blue;
 }
